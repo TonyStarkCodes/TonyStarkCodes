@@ -18,9 +18,7 @@
 
 > This ain't my main Guthib (yes Guthib).
 
-> Final-year engineering student. I spend my time building, breaking, fixing, and occasionally impressing myself.
-
-> Especially into AI/ML — because if the future is going to be artificial, it might as well be intelligent.
+> Final-year engineering student. I spend my time building, breaking, fixing, and occasionally impressing myself. Especially into AI/ML — because if the future is going to be artificial, it might as well be intelligent.
 
 > You came for the README, stayed for the repo, and left after the tokens burned in 5 minutes of chat.
 
