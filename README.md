@@ -33,6 +33,7 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
 </a>
 </p>-->
+<img width="1527" height="496" alt="image" src="https://github.com/user-attachments/assets/939bc398-b9ca-458f-a67b-899e78071a13" />
 
 <!-- "ABOUT ME" SECTION (Python style) -->
 <h2>🐍 About Me</h2>
